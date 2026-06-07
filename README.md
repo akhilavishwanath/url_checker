@@ -4,6 +4,15 @@ A simple and beginner-friendly cybersecurity project built using Python and Stre
 
 ---
 
+# 🌐 Live Demo
+
+Try the live URL Safety Checker application here:
+
+👉 https://huggingface.co/spaces/akhila56/url-safety-checker
+
+The project is deployed on Hugging Face Spaces using Streamlit and provides real-time URL risk analysis for detecting suspicious or phishing-like links.
+
+
 # 📌 Project Overview
 
 The URL Safety Checker is a lightweight web application designed to analyze URLs and detect common phishing or scam indicators.
